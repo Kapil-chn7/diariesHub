@@ -48,7 +48,7 @@ const TestingNotebook = () => {
 
   const formatDateTime = (date) => {
     const options = {
-      weekday: "long", 2222222222222222222222222222222222222223+
+      weekday: "long", 
       year: "numeric",
       month: "long",
       day: "numeric",
